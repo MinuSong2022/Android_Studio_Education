@@ -1,0 +1,1 @@
+C:\Users\admin\AndroidStudioProjects\K1109_Android_kot_Class_Ex\mytest1\lib\test3\build\classes\kotlin\main\com\example\test3\MyClass.class;C:\Users\admin\AndroidStudioProjects\K1109_Android_kot_Class_Ex\mytest1\lib\test3\build\classes\kotlin\main\com\example\test3\MyClassKt.class
